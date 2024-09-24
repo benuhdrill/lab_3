@@ -1,5 +1,15 @@
-# ios102-lab6-spring23
+Submitted by: Ben Gmach
 
-TODO// Update README with new lab 6 gif
+This is the second part of the Instaparse project where I will add additional functionality to my app, such as the ability to take photos with the camera and add more complex filtering logic to the posts returned in your query.
 
-![instaparse_walkthrough_1_xtra_small](https://user-images.githubusercontent.com/11927517/199710313-700aef85-ba89-427c-aa07-f89f0fdfdbbe.gif)
+Time spent: 1 hours spent in total
+
+Required Features
+The following required functionality is completed:
+
+[✓] Add custom properties to a Parse user
+[✓] Add constraints to Parse queries
+[✓] Take photos with the camera
+
+
+Video Walkthrough
